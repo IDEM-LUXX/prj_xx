@@ -1,0 +1,2 @@
+print ('Hey, guys!)'
+input()
